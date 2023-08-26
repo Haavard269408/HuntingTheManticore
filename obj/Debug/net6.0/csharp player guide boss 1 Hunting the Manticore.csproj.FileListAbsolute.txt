@@ -1,0 +1,15 @@
+C:\Users\haaje\Source\Repos\HuntingTheManticore\bin\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.exe
+C:\Users\haaje\Source\Repos\HuntingTheManticore\bin\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.deps.json
+C:\Users\haaje\Source\Repos\HuntingTheManticore\bin\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.runtimeconfig.json
+C:\Users\haaje\Source\Repos\HuntingTheManticore\bin\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.dll
+C:\Users\haaje\Source\Repos\HuntingTheManticore\bin\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.pdb
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.csproj.AssemblyReference.cache
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.AssemblyInfoInputs.cache
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.AssemblyInfo.cs
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.csproj.CoreCompileInputs.cache
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.dll
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\refint\csharp player guide boss 1 Hunting the Manticore.dll
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.pdb
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\csharp player guide boss 1 Hunting the Manticore.genruntimeconfig.cache
+C:\Users\haaje\Source\Repos\HuntingTheManticore\obj\Debug\net6.0\ref\csharp player guide boss 1 Hunting the Manticore.dll
