@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp player guide boss 1 Hunting the Manticore", "csharp player guide boss 1 Hunting the Manticore.csproj", "{B434C57A-2645-4AEF-AF5B-EF3C7390457B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B434C57A-2645-4AEF-AF5B-EF3C7390457B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B434C57A-2645-4AEF-AF5B-EF3C7390457B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B434C57A-2645-4AEF-AF5B-EF3C7390457B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B434C57A-2645-4AEF-AF5B-EF3C7390457B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96472D71-5ABA-407C-874A-9AED5D3B00F0}
+	EndGlobalSection
+EndGlobal
